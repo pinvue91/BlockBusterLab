@@ -1,0 +1,13 @@
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.exe
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.deps.json
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.runtimeconfig.json
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.runtimeconfig.dev.json
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.dll
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.pdb
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.csprojAssemblyReference.cache
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.AssemblyInfoInputs.cache
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.AssemblyInfo.cs
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.csproj.CoreCompileInputs.cache
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.dll
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.pdb
+C:\Users\pin\source\repos\BlockBusterLab\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.genruntimeconfig.cache
